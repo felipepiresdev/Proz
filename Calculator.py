@@ -21,8 +21,7 @@ def calculadora(num1, num2, operacao):
     else:
         print("Operação inválida")
         return 0
-
-# Exemplo de uso:
+        
 numero1 = float(input("Digite o primeiro número: "))
 numero2 = float(input("Digite o segundo número: "))
 operacao = int(input("Digite o número da operação (1: Soma, 2: Subtração, 3: Multiplicação, 4: Divisão): "))
